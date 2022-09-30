@@ -1,10 +1,8 @@
 # kbos
 
-live dslr capture module for kbos 22l/r arrivals    
+<img src="./raw/misc/cover.gif" alt="drawing" style="width:400px;"/>
 
-
-<img src="./raw/misc/cover.gif" alt="drawing" style="width:500px;"/>
-
+live dslr capture module for kbos 22l/r arrivals   
 
 ## notes
 
