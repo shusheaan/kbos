@@ -1,7 +1,6 @@
 # kbos
 
-live high-quality dslr capture module for kbos 22l/r arrivals    
-automatically capture high-res photos for aircrafts on kbos 22l/r final approach.  
+live dslr capture module for kbos 22l/r arrivals    
 
 
 <img src="./raw/misc/cover.gif" alt="drawing" style="width:500px;"/>
